@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Huaijin Wang's homepage on the web.
+I am a fourth-year Ph.D. student at the CSE department supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. I currently focus on semantics-aware code embedding, and my research interests include software analysis and malware detection.
 
 Publications
 ------

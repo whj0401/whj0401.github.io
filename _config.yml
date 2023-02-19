@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mr. Huaijin Wang"
 title_separator          : "-"
 name                     : &name "Mr. Huaijin Wang"
-description              : &description "am a fourth-year Ph.D. student at the CSE department supervised by Dr. Shuai Wang(https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. I currently focus on semantics-aware code embedding, and my research interests include software analysis and malware detection."
+description              : &description "I am a fourth-year Ph.D. student at the CSE department supervised by Dr. Shuai Wang(https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. I currently focus on semantics-aware code embedding, and my research interests include software analysis and malware detection."
 url                      : https://whj0401.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whj0401.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D student at CSE department, HKUST"
   location         : "Clear Water Bay, Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eO-yR-0AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
