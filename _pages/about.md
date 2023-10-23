@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the CSE department supervised by Dr. Shuai Wang(https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
+I am a fourth-year Ph.D. student at the CSE department supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
 
 Publications
 ------
@@ -16,7 +16,7 @@ Publications
 ### ICSE'24
 [BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)
 WONG Wai Kin, **Huaijin Wang**, Li Zongjie, Shuai Wang
-*2024 IEEE/ACM 41st International Conference on Software Engineering (ICSE)*
+*2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)*
 
 ### TOSEM'22
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]
