@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Huaijin Wang"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the CSE department supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. I currently focus on semantics-aware code embedding, and my research interests include software analysis and malware detection.
+I am a fourth-year Ph.D. student at the CSE department supervised by Dr. Shuai Wang(https://www.cse.ust.hk/~shuaiw/). I received my Bachelor on Software Engineering degree from Nanjing University in 2017. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
 
 Publications
 ------
+
+### ICSE'24
+[BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)
+WONG Wai Kin, **Huaijin Wang**, Li Zongjie, Shuai Wang
+*2024 IEEE/ACM 41st International Conference on Software Engineering (ICSE)*
 
 ### TOSEM'22
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]
@@ -45,8 +50,12 @@ Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zheny
 
 Services
 ------
+External Artifact Reviewer:
+ - 2024: ICSE
+
 External Reviewer:
- - 2023: IEEE S&P, USENIX Security, ISSTA, ESEC/FSE, TOSEM
+ - 2024: ICSE, IEEE S&P, USENIX Security, TOSEM
+ - 2023: IEEE S&P, USENIX Security, ISSTA, ESEC/FSE, TOSEM, CCS
  - 2022: ASE, NDSS BAR, CCS, IEEE TIFS, DTRAP
  - 2020: ICICS, ICSE SEIP
  - 2019: ICICS
