@@ -15,7 +15,7 @@ Publications
 
 ### ICSE'24
 [**BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing**](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)\
-WONG Wai Kin, **Huaijin Wang**, Li Zongjie, Shuai Wang\
+WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang\
 *2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)*
 
 ### TOSEM'22
