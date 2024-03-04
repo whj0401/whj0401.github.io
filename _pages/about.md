@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Chinese version see [here](zh). 中文版简历见[页面](zh).
+
 I have graduated from HKUST and received my Ph.D. degree at the end of 2023, and now I am a postdoc researcher of HKUST.
 I was supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/) during 2019-2023, and received my B.Eng. degree from Nanjing University in 2017. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
 
