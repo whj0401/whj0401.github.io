@@ -27,7 +27,7 @@ Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
 <!-- ### ICSE'24 -->
 [**BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing**](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)\
 WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I are joint corresponding authors)\
-*2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)* (**ICSE'24**)
+*2024 IEEE/ACM 46th International Conference on Software Engineering* (**ICSE'24**)
 
 <!-- ### TOSEM'22 -->
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]\
@@ -57,7 +57,7 @@ Zongjie Li, Pingchuan Ma, **Huaijin Wang**, Shuai Wang, Qiyi Tang, Sen Nie, Shi 
 <!-- ### ICSE'19 -->
 [**Global optimization of numerical programs via prioritized stochastic algebraic transformations**](https://ieeexplore.ieee.org/abstract/document/8812093/)\
 Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zhenyu Chen, Linzhang Wang, Xianpei Zhang, Xuandong Li\
-*2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)* (**ICSE'19**)
+*2019 IEEE/ACM 41st International Conference on Software Engineering* (**ICSE'19**)
 
 Services
 ------
