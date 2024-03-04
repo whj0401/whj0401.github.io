@@ -22,42 +22,42 @@ Publications
 <!-- ### OOPSLA'24 -->
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
 Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
-*ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications* (OOPSLA'24)
+*ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications* (**OOPSLA'24**)
 
 <!-- ### ICSE'24 -->
 [**BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing**](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)\
 WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I are joint corresponding authors)\
-*2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)* (ICSE'24)
+*2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)* (**ICSE'24**)
 
 <!-- ### TOSEM'22 -->
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]\
 **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM Transactions on Software Engineering and Methodology, 2022* (TOSEM'22)
+*ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'22**)
 
 <!-- ### TSE'22 -->
 [**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/) [[code](https://github.com/computer-analysis/BinUSE)]\
 **Huaijin Wang**, Pingchuan Ma, Yuanyuan Yuan, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*IEEE Transactions on Software Engineering, 2022* (TSE'22)
+*IEEE Transactions on Software Engineering, 2022* (**TSE'22**)
 
 <!-- ### ICSME'22 -->
 [**Deceiving Deep Neural Networks-Based Binary Code Matching with Adversarial Programs**](https://ieeexplore.ieee.org/abstract/document/9978244/)\
 Wai Kin Wong, **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen, Qiyi Tang, Sen Nie, Shi Wu\
-*2022 IEEE International Conference on Software Maintenance and Evolution* (ICSME'22)
+*2022 IEEE International Conference on Software Maintenance and Evolution* (**ICSME'22**)
 
 <!-- ### ICSE'22 -->
 [**Unleashing the power of compiler intermediate representation to enhance neural program embeddings**](https://arxiv.org/pdf/2204.09191)\
 Zongjie Li, Pingchuan Ma, **Huaijin Wang**, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*Proceedings of the 44th International Conference on Software Engineering* (ICSE'22)
+*Proceedings of the 44th International Conference on Software Engineering* (**ICSE'22**)
 
 <!-- ### TDSC'20 -->
 [**Generating effective software obfuscation sequences with reinforcement learning**](https://ieeexplore.ieee.org/abstract/document/9275317/)\
 **Huaijin Wang**, Shuai Wang, Dongpeng Xu, Xiangyu Zhang, Xiao Liu\
-*IEEE Transactions on Dependable and Secure Computing, 2020* (TDSC'20)
+*IEEE Transactions on Dependable and Secure Computing, 2020* (**TDSC'20**)
 
 <!-- ### ICSE'19 -->
 [**Global optimization of numerical programs via prioritized stochastic algebraic transformations**](https://ieeexplore.ieee.org/abstract/document/8812093/)\
 Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zhenyu Chen, Linzhang Wang, Xianpei Zhang, Xuandong Li\
-*2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)* (ICSE'19)
+*2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)* (**ICSE'19**)
 
 Services
 ------
