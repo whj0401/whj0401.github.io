@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "ZH"
+permalink: /zh/
+author_profile: true
+redirect_from:
+  - /zh
+  - /zh.html
+---
+
 王怀瑾
 
 简介
