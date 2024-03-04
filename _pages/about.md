@@ -13,9 +13,9 @@ I was supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/) during 201
 
 Work Experience
 ------
-<ul>I used to be a senior software engineer at Huaiwei during 2017-2018.</ul>
-<ul>During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by of CCF-Tencent Rhino-Bird Fund.</ul>
-<ul>I am the leading developer for the Address Sanitizer of Huawei's OpenArkCompiler. More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san).</ul>
+I used to be a senior software engineer at Huawei during 2017-2018.\
+During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by **CCF-Tencent Rhino-Bird Fund**.\
+I am the leading developer for the Address Sanitizer of Huawei's [OpenArkCompiler](https://gitee.com/openarkcompiler/). More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san).
 
 Publications
 ------
@@ -65,26 +65,21 @@ Artifact Reviewer Committee:
  - 2024: ICSE
 
 External Reviewer:
- - 2024: ICSE, IEEE S&P, USENIX Security, FSE, TOSEM
+ - 2024: ICSE, IEEE S&P, USENIX Security, FSE, TOSEM, ISSTA
  - 2023: IEEE S&P, USENIX Security, ISSTA, ESEC/FSE, TOSEM, CCS
  - 2022: ASE, NDSS BAR, CCS, IEEE TIFS, DTRAP
  - 2020: ICICS, ICSE SEIP
  - 2019: ICICS
 
-<!-- External Artifact Reviewer:
- - 2020: ICSE
- - 2019: SOSP -->
-
 Teaching
 ------
-  <ul>Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Fall 2022)</ul>
-  <ul>Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Spring 2022)</ul>
-  <ul>Teaching assistant for COMP2011: Programming with C++ (HKUST, Spring 2020)</ul>
+Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Fall 2022)\
+Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Spring 2022)\
+Teaching assistant for COMP2011: Programming with C++ (HKUST, Spring 2020)
 
 Award
 ------
-**2021-2022** CCF-Tencent Rhino-Bird Elite Award
-
-**2019-2023** HKUST Postgraduate Studentship
-
+**2023** Research Travel Grant Award\
+**2021-2022** CCF-Tencent Rhino-Bird Elite Award\
+**2019-2023** HKUST Postgraduate Studentship\
 **2014** Nanjing University Ren Min Scholarship
