@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Huaijin Wang"
+  name             : "Dr. Huaijin Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D student at CSE department, HKUST"
+  bio              : "Postdoc researcher at CSE department, HKUST"
   location         : "Clear Water Bay, Hong Kong, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eO-yR-0AAAAJ"
-  email            :
+  email            : "hwangdz@cse.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

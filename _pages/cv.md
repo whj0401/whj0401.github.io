@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in China, Nanjing University, 2017
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* Ph.D in China, Hong Kong University of Science and Technology, 2023 (expected)
+* Ph.D in China, Hong Kong University of Science and Technology, 2023
 
 Work experience
 ======
