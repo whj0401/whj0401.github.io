@@ -17,7 +17,8 @@ Work Experience
 ------
 I used to be a senior software engineer at Huawei during 2017-2018.\
 During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by **CCF-Tencent Rhino-Bird Fund**.\
-I am the leading developer for the Address Sanitizer of Huawei's [OpenArkCompiler](https://gitee.com/openarkcompiler/). More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san).
+<!-- I am the leading developer for the Address Sanitizer of Huawei's [OpenArkCompiler](https://gitee.com/openarkcompiler/).
+More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san). -->
 
 Publications
 ------

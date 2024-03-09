@@ -21,7 +21,7 @@ redirect_from:
 ------
 我曾经于南京华为研究所作为高级工程师工作 (2017-2018)。\
 博士就读期间，我曾经于2021年在腾讯科恩实验室实习，受**CCF-腾讯犀牛鸟基金**的赞助，同时获得CCF-腾讯犀牛鸟精英人才奖。\
-博士期间，我作为[华为方舟编译器](https://gitee.com/openarkcompiler/)的 Address Sanitizer 模块的主要开发人员，带领团队成员完成模块的开发以及通过华为验收，[代码](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san)已经合并入主线。
+<!-- 博士期间，我作为[华为方舟编译器](https://gitee.com/openarkcompiler/)的 Address Sanitizer 模块的主要开发人员，带领团队成员完成模块的开发以及通过华为验收，[代码](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san)已经合并入主线。 -->
 
 发表文章
 ------
