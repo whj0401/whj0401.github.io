@@ -1,0 +1,66 @@
+\documentclass[letter,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+%====================
+% File:         resume.tex
+% Editor:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+% Last Updated: Nov 19, 2021
+% Notes:        All formatting is done in TLCresume.sty
+%               No need to touch that file. 
+%               All actual content is in the sections/ folder.
+%====================
+
+\usepackage{TLCresume}
+\usepackage[backend=biber,style=authortitle,maxbibnames=99,sorting=ydnt]{biblatex}
+
+\renewcommand*{\mkbibnamegiven}[1]{%
+\ifitemannotation{highlight}
+{\textbf{#1}}
+{#1}}
+
+\addbibresource{sections/publication.bib}
+
+%====================
+% CONTACT INFORMATION
+%====================
+% \author{Huaijin Wang} % Name Here
+% \def\phone{(852)6485-6949}
+% \def\city{Hong Kong}
+% \def\email{hwangdz@cse.ust.hk}
+% \def\LinkedIn{shortenedlinkedin} % linkedin.com/in/______
+% \def\github{username} % github username
+% \def\role{Ph.D Student} % JOB TITLE
+
+\begin{document}
+\import{sections/}{header}
+\import{sections/}{objective}
+
+\section{Education}
+\import{sections/}{education}
+
+\section{Industry Experience and Internship}
+\import{sections/}{industry}
+
+\section{Academic Experience}
+\import{sections/}{academic}
+
+\section{Publication}
+\import{sections/}{publication}
+% \nocite{*}
+% \printbibliography[heading=none]
+
+% \section{Skills}
+% \import{sections/}{skills}
+
+% make a newpage wherever it is a clean break
+% \newpage
+
+\section{Professional Services}
+\import{sections/}{activity}
+
+\section{Award}
+\import{sections/}{award}
+
+\end{document}

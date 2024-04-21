@@ -1,0 +1,48 @@
+
+\textbf{After resigning from Nanjing Huawei}, I contacted with my advisor in
+Nanjing University, Dr.\ Enyi Tang, and joined his research group
+in optimizing floating point arithmetic.
+I was responsible for developing an automatic tool to analyze
+the potential vulnerable calculation with fixed floating points,
+then replace the fixed floating points with the arbitrary precision
+floating points.
+This work was published on the ICSE 2019.
+% This work is based on the
+% \href{http://rosecompiler.org/ROSE_HTML_Reference/index.html}{Rose Compiler}
+% and \href{https://github.com/klee/klee}{KLEE}.
+% The tool is publicly available at my
+% \href{https://github.com/whj0401/numopt_preprocess}{repository},
+% and our paper was published on the ICSE 2019.
+
+\smallskip
+\textbf{During my Ph.D. study}, my research focused on \textbf{binary code similarity
+analysis (BCSA)} and its application.
+My advisor, Dr. Shuai Wang, and I cooperated with Tencent Keen Lab
+in this topic.
+
+\smallskip
+\textit{What is BCSA?}~
+Industrial developers often use machine-learning-based BCSA to analyze
+software without source code, such as malware and commercial software.
+BCSA tools work like a search engine for binary code. Given a query binary
+code piece, BCSA returns several most similar binary code pieces in the
+database. The similarity is measured by the semantic information extracted
+from the binary code. However, analyzing binary code is difficult due to
+lack of human-readable symbols, complicated optimized code, and even
+obfuscated code.
+
+\begin{itemize}
+    \item To improve the precision of machine-learning-based BCSA, we proposed
+    to use the semantic information extracted by the under-constrained
+    symbolic execution. This work was published on the TSE 2022.
+
+    \item To enhance BCSA's capability of understanding binary code semantics,
+    we design \texttt{sem2vec} to embed the extracted semantic information
+    directly, which shows a significant improvement in understanding
+    obfuscated binary code. This work was published on the TOSEM 2023.
+
+    \item We also investigate a promising application of BCSA, binary software
+    composition analysis (Binary SCA). We evaluated the state-of-the-art BCSA tools
+    on the binary SCA task and proposed several enhancements. This work was
+    just accepted by the Euro S\&P 2024.
+\end{itemize}
