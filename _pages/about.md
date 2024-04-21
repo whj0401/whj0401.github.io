@@ -32,10 +32,10 @@ Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
 WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I are joint corresponding authors)\
 *2024 IEEE/ACM 46th International Conference on Software Engineering* (**ICSE'24**)
 
-<!-- ### TOSEM'22 -->
+<!-- ### TOSEM'23 -->
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]\
 **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'22**)
+*ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'23**)
 
 <!-- ### TSE'22 -->
 [**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/) [[code](https://github.com/computer-analysis/BinUSE)]\
