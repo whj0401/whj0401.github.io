@@ -27,6 +27,10 @@ redirect_from:
 ------
 本人多次发表论文于计算机安全，计算机语言，及软件工程的顶级期刊与会议。
 
+**Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**\
+**Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
+*9th IEEE European Symposium on Security and Privacy* (Euro SP'24)
+
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
 Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
 *ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications* (**OOPSLA'24**)

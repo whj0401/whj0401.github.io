@@ -22,6 +22,11 @@ More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCo
 
 Publications
 ------
+<!-- ### Euro S&P'24 -->
+**Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**\
+**Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
+*9th IEEE European Symposium on Security and Privacy* (Euro SP'24)
+
 <!-- ### OOPSLA'24 -->
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
 Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
@@ -68,6 +73,7 @@ Artifact Reviewer Committee:
  - 2024: ICSE
 
 External Reviewer:
+ - 2025: ICSE
  - 2024: ICSE, IEEE S&P, USENIX Security, FSE, TOSEM, ISSTA
  - 2023: IEEE S&P, USENIX Security, ISSTA, ESEC/FSE, TOSEM, CCS
  - 2022: ASE, NDSS BAR, CCS, IEEE TIFS, DTRAP
