@@ -15,17 +15,14 @@ I was supervised by [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/) during 201
 
 Work Experience
 ------
-I used to be a senior software engineer at Huawei during 2017-2018.\
-During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by **CCF-Tencent Rhino-Bird Fund**.\
-<!-- I am the leading developer for the Address Sanitizer of Huawei's [OpenArkCompiler](https://gitee.com/openarkcompiler/).
-More details are available at [here](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san). -->
+During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by **CCF-Tencent Rhino-Bird Fund**.
 
 Publications
 ------
 <!-- ### Euro S&P'24 -->
 **Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**\
 **Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*9th IEEE European Symposium on Security and Privacy* (Euro SP'24)
+(**Euro SP'24**)
 
 <!-- ### OOPSLA'24 -->
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\

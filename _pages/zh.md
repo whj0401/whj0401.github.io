@@ -15,13 +15,11 @@ redirect_from:
 我目前是香港科技大学计算机与工程学院的博士后。本人博士于2023年底毕业于香港科技大学，
 指导老师是[王帅教授](https://www.cse.ust.hk/~shuaiw/)。
 本人曾就读南京大学软件学院并获得学士学位。
-我的研究兴趣包括**二进制程序分析，逆向工程，病毒分析，漏洞挖掘，以及软件供应链安全**。
+我的研究兴趣包括**二进制程序分析，逆向工程，病毒分析，漏洞挖掘，以及软件供应链分析**。
 
 工作经历
 ------
-我曾经于南京华为研究所作为高级工程师工作 (2017-2018)。\
-博士就读期间，我曾经于2021年在腾讯科恩实验室实习，受**CCF-腾讯犀牛鸟基金**的赞助，同时获得CCF-腾讯犀牛鸟精英人才奖。\
-<!-- 博士期间，我作为[华为方舟编译器](https://gitee.com/openarkcompiler/)的 Address Sanitizer 模块的主要开发人员，带领团队成员完成模块的开发以及通过华为验收，[代码](https://gitee.com/openarkcompiler/OpenArkCompiler/tree/master/src/mapleall/maple_san)已经合并入主线。 -->
+博士就读期间，我曾经于2021年在腾讯科恩实验室实习，受**CCF-腾讯犀牛鸟基金**的赞助，同时获得CCF-腾讯犀牛鸟精英人才奖
 
 发表文章
 ------
@@ -29,7 +27,7 @@ redirect_from:
 
 **Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**\
 **Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*9th IEEE European Symposium on Security and Privacy* (Euro SP'24)
+(**Euro SP'24**)
 
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
 Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
