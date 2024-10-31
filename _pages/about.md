@@ -19,28 +19,36 @@ During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and w
 
 Publications
 ------
-<!-- ### Euro S&P'24 -->
-**Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**\
-**Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
-(**Euro SP'24**)
 
-<!-- ### OOPSLA'24 -->
+(\* means I am a corresponding author of this work)
+
+**Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
+[[Code](https://github.com/whj0401/SafeSCA)]\
+**Huaijin Wang**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
+*2025 IEEE/ACM 47th International Conference on Software Engineering* (**ICSE'25**)
+
+[**Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**](https://ieeexplore.ieee.org/abstract/document/10629030)
+[[Code](https://sites.google.com/view/bsa2bsca/home/artifact)]\
+**Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
+*9th IEEE European Symposium on Security and Privacy* (**Euro SP'24**)
+
 [**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
 Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
 *ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications* (**OOPSLA'24**)
 
-<!-- ### ICSE'24 -->
 [**BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing**](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)\
 WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I are joint corresponding authors)\
 *2024 IEEE/ACM 46th International Conference on Software Engineering* (**ICSE'24**)
 
 <!-- ### TOSEM'23 -->
-[**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]\
+[**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933)
+[[Code](https://github.com/sem2vec)]\
 **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'23**)
 
 <!-- ### TSE'22 -->
-[**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/) [[code](https://github.com/computer-analysis/BinUSE)]\
+[**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/)
+[[Code](https://github.com/computer-analysis/BinUSE)]\
 **Huaijin Wang**, Pingchuan Ma, Yuanyuan Yuan, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *IEEE Transactions on Software Engineering, 2022* (**TSE'22**)
 
