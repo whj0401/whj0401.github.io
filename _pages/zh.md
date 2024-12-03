@@ -28,7 +28,7 @@ redirect_from:
 (\* means I am a corresponding author of this work)
 
 **Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
-[[Code](https://github.com/whj0401/SafeSCA)]\
+[[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
 **Huaijin Wang**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *2025 IEEE/ACM 47th International Conference on Software Engineering* (**ICSE'25**)
 
