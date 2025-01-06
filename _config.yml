@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Huaijin Wang"
 title_separator          : "-"
 name                     : &name "Dr. Huaijin Wang"
-description              : &description "I am a Postdoc Researcher at CSE department, HKUST."
+description              : &description "I am a Postdoc Researcher at CSE department, Ohio State University."
 url                      : https://whj0401.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whj0401.github.io"
@@ -88,6 +88,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eO-yR-0AAAAJ"
   email            : "hwangdz@cse.ust.hk"
+  email2           : "wang.18964@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
