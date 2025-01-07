@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Huaijin Wang"
   avatar           : "profile.png"
-  bio              : "Postdoc researcher at CSE department, HKUST"
-  location         : "Clear Water Bay, Hong Kong, China"
+  bio              : "Postdoc researcher at CSE department, The Ohio State University"
+  location         : "Columbus, Ohio State, US"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eO-yR-0AAAAJ"
-  email            : "hwangdz@cse.ust.hk"
-  email2           : "wang.18964@osu.edu"
+  # email            : "hwangdz@cse.ust.hk"
+  email            : "wang.18964@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
