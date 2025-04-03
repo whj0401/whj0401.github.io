@@ -21,6 +21,10 @@ Publications
 
 (\* means I am a corresponding author of this work)
 
+**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code**\
+Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
+*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA 2025**)
+
 **Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
 [[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
 **Huaijin Wang**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
