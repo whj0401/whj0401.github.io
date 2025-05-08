@@ -23,7 +23,7 @@ Publications
 
 **DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code**\
 Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA 2025**)
+*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA'25**)
 
 **Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
 [[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
@@ -47,7 +47,12 @@ WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I a
 [**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933)
 [[Code](https://github.com/sem2vec)]\
 **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'23**)
+*ACM Transactions on Software Engineering and Methodology, 2023* (**TOSEM'23**)
+
+<!-- ### ISC 2023 -->
+[**RLTrace: Synthesizing High-Quality System Call Traces for OS Fuzz Testing**](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_6)\
+Wei Chen, **Huaijin Wang**, Weixi Gu, Shuai Wang\
+*International Conference on Information Security, 2023*
 
 <!-- ### TSE'22 -->
 [**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/)
