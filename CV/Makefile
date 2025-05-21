@@ -1,4 +1,4 @@
-WHAT = resume
+WHAT = CV
 
 best: 
 	pdflatex $(WHAT).tex
@@ -23,6 +23,9 @@ xbest:
 	explorer $(WHAT).pdf ; echo OK
 
 clean: 
+	WHAT=CV
+	rm *.log *.aux *.bbl *.blg *.ent $(WHAT).toc $(WHAT).dvi $(WHAT).ps $(WHAT).pdf $(WAHAT).out
+	WHAT=resume
 	rm *.log *.aux *.bbl *.blg *.ent $(WHAT).toc $(WHAT).dvi $(WHAT).ps $(WHAT).pdf $(WAHAT).out
 
 all:

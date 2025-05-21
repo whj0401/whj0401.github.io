@@ -1,12 +1,13 @@
 
-\textbf{After resigning from Nanjing Huawei}, I contacted with my advisor in
-Nanjing University, Dr.\ Enyi Tang, and joined his research group
-in optimizing floating point arithmetic.
-I was responsible for developing an automatic tool to analyze
-the potential vulnerable calculation with fixed floating points,
-then replace the fixed floating points with the arbitrary precision
-floating points.
-This work was published on the ICSE 2019.
+% \textbf{After resigning from Nanjing Huawei}, I contacted with my advisor in
+% Nanjing University, Dr.\ Enyi Tang, and joined his research group
+% in optimizing floating point arithmetic.
+% I was responsible for developing an automatic tool to analyze
+% the potential vulnerable calculation with fixed floating points,
+% then replace the fixed floating points with the arbitrary precision
+% floating points.
+% This work was published on the ICSE 2019.
+
 % This work is based on the
 % \href{http://rosecompiler.org/ROSE_HTML_Reference/index.html}{Rose Compiler}
 % and \href{https://github.com/klee/klee}{KLEE}.
@@ -14,8 +15,13 @@ This work was published on the ICSE 2019.
 % \href{https://github.com/whj0401/numopt_preprocess}{repository},
 % and our paper was published on the ICSE 2019.
 
-\smallskip
-\textbf{During my Ph.D. study}, my research focused on \textbf{binary code similarity
+% \smallskip
+% \textbf{During my Ph.D. study}, my research focused on \textbf{binary code similarity
+% analysis (BCSA)} and its application.
+% My advisor, Dr. Shuai Wang, and I cooperated with Tencent Keen Lab
+% in this topic.
+
+During my Ph.D. study, my research focused on \textbf{binary code similarity
 analysis (BCSA)} and its application.
 My advisor, Dr. Shuai Wang, and I cooperated with Tencent Keen Lab
 in this topic.
@@ -34,15 +40,23 @@ obfuscated code.
 \begin{itemize}
     \item To improve the precision of machine-learning-based BCSA, we proposed
     to use the semantic information extracted by the under-constrained
-    symbolic execution. This work was published on the TSE 2022.
+    symbolic execution (USE). This work was published on the TSE 2022.
 
     \item To enhance BCSA's capability of understanding binary code semantics,
-    we design \texttt{sem2vec} to embed the extracted semantic information
-    directly, which shows a significant improvement in understanding
+    we design \texttt{sem2vec} to directly embed the semantic information,
+    extracted by USE,
+    which shows a significant improvement in understanding
     obfuscated binary code. This work was published on the TOSEM 2023.
 
     \item We also investigate a promising application of BCSA, binary software
     composition analysis (Binary SCA). We evaluated the state-of-the-art BCSA tools
     on the binary SCA task and proposed several enhancements. This work was
-    just accepted by the Euro S\&P 2024.
+    published on the Euro S\&P 2024.
+
+    % \item We also notice the privacy issue of software composition analysis (SCA) and
+    % build the first privacy-preserving SCA framework. We just got a revision from
+    % ICSE 2025.
 \end{itemize}
+
+Our team is also investigating enhancing software security with LLMs. For instance,
+reducing false positives of static analysis tools, improving decompilers, etc.
