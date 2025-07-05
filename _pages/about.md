@@ -21,7 +21,7 @@ Publications
 
 (\* means I am a corresponding author of this work)
 
-**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code**\
+[**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.**](https://dl.acm.org/doi/pdf/10.1145/3728958)\
 Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA'25**)
 

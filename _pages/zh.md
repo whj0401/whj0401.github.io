@@ -27,9 +27,9 @@ redirect_from:
 
 (\* means I am a corresponding author of this work)
 
-**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code**\
+[**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.**](https://dl.acm.org/doi/pdf/10.1145/3728958)\
 Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA 2025**)
+*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA'25**)
 
 **Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
 [[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
