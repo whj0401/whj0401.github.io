@@ -27,11 +27,15 @@ redirect_from:
 
 (\* means I am a corresponding author of this work)
 
+**vSim: Semantics-Aware Value Extraction for Efficient Binary Code Similarity Analysis.** [[Code](https://github.com/OSUSecLab/vSim)][[Artifact](https://doi.org/10.5281/zenodo.17751555)][[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2026/vSim_NDSS2026.pdf?raw=true)]\
+**Huaijin Wang**, Zhiqiang Lin\
+Network and Distributed System Security Symposium 2026 (**NDSS'26**)
+
 [**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.**](https://dl.acm.org/doi/pdf/10.1145/3728958)\
 Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA'25**)
 
-**Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**
+[**Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**](https://doi.org/10.1109/ICSE55347.2025.00055)
 [[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
 **Huaijin Wang**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
 *2025 IEEE/ACM 47th International Conference on Software Engineering* (**ICSE'25**)
