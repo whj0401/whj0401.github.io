@@ -23,7 +23,7 @@ Publications
 
 (\* means I am a corresponding author of this work)
 
-**vSim: Semantics-Aware Value Extraction for Efficient Binary Code Similarity Analysis.** [[Code](https://github.com/OSUSecLab/vSim)][[Artifact](https://doi.org/10.5281/zenodo.17751555)][[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2026/vSim_NDSS2026.pdf?raw=true)]\
+[**vSim: Semantics-Aware Value Extraction for Efficient Binary Code Similarity Analysis.**](https://www.ndss-symposium.org/ndss-paper/vsim-semantics-aware-value-extraction-for-efficient-binary-code-similarity-analysis/) [[Code](https://github.com/OSUSecLab/vSim)][[Artifact](https://doi.org/10.5281/zenodo.17751555)][[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2026/vSim_NDSS2026.pdf?raw=true)]\
 **Huaijin Wang**, Zhiqiang Lin\
 Network and Distributed System Security Symposium 2026 (**NDSS'26**)
 
