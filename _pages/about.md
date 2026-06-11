@@ -23,9 +23,13 @@ Publications
 
 (\* means I am a corresponding author of this work)
 
+[**No More Translation at Runtime: LLM-Empowered Static Binary Translation**](https://dl.acm.org/doi/10.1145/3767295.3803600)\
+Zhibo Liu, **Huaijin Wang**, Wai Kin Wong, Daoyuan Wu, Shuai Wang\
+*Proceedings of the 21st European Conference on Computer Systems* (**EuroSys'26**)
+
 [**vSim: Semantics-Aware Value Extraction for Efficient Binary Code Similarity Analysis.**](https://www.ndss-symposium.org/ndss-paper/vsim-semantics-aware-value-extraction-for-efficient-binary-code-similarity-analysis/) [[Code](https://github.com/OSUSecLab/vSim)][[Artifact](https://doi.org/10.5281/zenodo.17751555)][[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2026/vSim_NDSS2026.pdf?raw=true)]\
 **Huaijin Wang**, Zhiqiang Lin\
-Network and Distributed System Security Symposium 2026 (**NDSS'26**)
+*Network and Distributed System Security Symposium 2026* (**NDSS'26**)
 
 [**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.**](https://dl.acm.org/doi/pdf/10.1145/3728958)[[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2025/DecLLM_ISSTA2025.pdf?raw=true)]\
 Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
