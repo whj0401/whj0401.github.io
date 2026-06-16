@@ -10,13 +10,8 @@ redirect_from:
 
 Chinese version see [here](zh). 中文版简历见[页面](zh).
 
-I am a postdoc scholar of the HKUST advised by Dr. Shuai Wang.
-I was a postdoc scholar of the SecLab of Ohio State University advised by [Prof. Zhiqiang Lin](https://zhiqlin.github.io/).
-I received my Ph.D. degree from the Hong Kong University of Science and Technology at the end of 2023, under the supervision of [Dr. Shuai Wang](https://www.cse.ust.hk/~shuaiw/) during 2019-2023, and received my B.Eng. degree from Nanjing University in 2017. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
-
-Work Experience
-------
-During my Ph.D. program, I took my internship in 2021 in Tencent Keen Lab, and was supported by **CCF-Tencent Rhino-Bird Fund**.
+I am joining Shandong University, Department of Computer Science and Technology.
+Before that, I received my Ph.D. degree from the Hong Kong University of Science and Technology and received my B.Eng. degree from Nanjing University. My research interests include binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
 
 Publications
 ------
