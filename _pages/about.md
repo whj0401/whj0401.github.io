@@ -88,6 +88,9 @@ Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zheny
 
 Services
 ------
+Reviewer:
+ - 2026: TIFS, TDSC, Computers & Security
+
 Artifact Reviewer Committee:
  - 2024: ICSE
 
@@ -101,6 +104,8 @@ External Reviewer:
 
 Teaching
 ------
+Teaching assistant for ARIN5303: Principles of Cybersecurity (HKUST, Fall 2026)\
+Teaching assistant for CSIT5730: Principles of Cybersecurity (HKUST, Fall 2025)\
 Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Fall 2022)\
 Teaching assistant for COMP3632: Principles of Cybersecurity (HKUST, Spring 2022)\
 Teaching assistant for COMP2011: Programming with C++ (HKUST, Spring 2020)
