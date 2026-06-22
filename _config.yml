@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Huaijin Wang"
+title                    : "Huaijin Wang"
 title_separator          : "-"
-name                     : &name "Dr. Huaijin Wang"
-description              : &description "I am a Postdoc Researcher at CSE department, Ohio State University."
+name                     : &name "Huaijin Wang"
+description              : &description "Professor of Shandong University"
 url                      : https://whj0401.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whj0401.github.io"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Huaijin Wang"
+  name             : "Huaijin Wang"
   avatar           : "profile.png"
-  bio              : "Postdoc researcher at CSE department, The Hong Kong University of Science and Technology"
-  location         : "Hong Kong SAR, China"
+  bio              : "Professor of CS Department, Shandong University"
+  location         : "Qingdao, Shandong, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eO-yR-0AAAAJ"
-  email            : "hwangdz@cse.ust.hk"
+  email            : "huaijinwang@sdu.edu.cn"
+  # email            : "hwangdz@cse.ust.hk"
   # email            : "wang.18964@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
