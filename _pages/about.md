@@ -18,6 +18,10 @@ Publications
 
 (\* means I am a corresponding author of this work)
 
+**BinRAG: An RAG-Based Decompilation Framework Fusing Name Prediction and Calling Context**\
+Wai Kin Wong, Daoyuan Wu, Zhibo Liu, Huaijin Wang, Zongjie Li, and Shuai Wang.\
+(**ISSTA 2026**)
+
 [**No More Translation at Runtime: LLM-Empowered Static Binary Translation**](https://dl.acm.org/doi/10.1145/3767295.3803600)\
 Zhibo Liu, **Huaijin Wang**, Wai Kin Wong, Daoyuan Wu, Shuai Wang\
 *Proceedings of the 21st European Conference on Computer Systems* (**EuroSys'26**)
@@ -111,7 +115,5 @@ Teaching assistant for COMP2011: Programming with C++ (HKUST, Spring 2020)
 
 Award
 ------
-**2023** Research Travel Grant Award\
-**2021-2022** CCF-Tencent Rhino-Bird Elite Award\
-**2019-2023** HKUST Postgraduate Studentship\
-**2014** Nanjing University Ren Min Scholarship
+**2025** Google Cloud Research Credits Program\
+**2021-2022** CCF-Tencent Rhino-Bird Elite Award
