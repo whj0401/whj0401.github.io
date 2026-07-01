@@ -95,7 +95,5 @@ Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zheny
 
 奖项
 ------
-**2023** Research Travel Grant Award\
-**2021-2022** CCF-腾讯犀牛鸟基金精英人才\
-**2019-2023** HKUST Postgraduate Studentship\
-**2014** 南京大学人民奖学金
+**2025** Google Cloud Research Credits Program\
+**2021-2022** CCF-腾讯犀牛鸟基金精英人才
