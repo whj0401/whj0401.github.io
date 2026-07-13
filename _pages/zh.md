@@ -16,77 +16,22 @@ redirect_from:
 我博士毕业于香港科技大学计算机与工程学院，于南京大学软件学院并获得学士学位。
 我的研究兴趣包括**二进制程序分析、逆向工程、病毒分析、漏洞挖掘、以及软件供应链分析**。
 
+<div class="notice--info" markdown="1">
+#### 🎓 招生信息
+我正在招收有自驱力的学生（博士后、博士、硕士和本科生），以及软件安全、人工智能和软件工程方向的合作者。如果你有兴趣与我合作，欢迎通过邮件联系我。
+</div>
+
 发表文章
 ------
 本人多次发表论文于计算机安全，计算机语言，及软件工程的顶级期刊与会议。
 
-(\* means I am a corresponding author of this work)
-
-[**No More Translation at Runtime: LLM-Empowered Static Binary Translation**](https://dl.acm.org/doi/10.1145/3767295.3803600)\
-Zhibo Liu, **Huaijin Wang**, Wai Kin Wong, Daoyuan Wu, Shuai Wang\
-*Proceedings of the 21st European Conference on Computer Systems* (**EuroSys'26**) (CCF-A)
-
-**vSim: Semantics-Aware Value Extraction for Efficient Binary Code Similarity Analysis.** [[Code](https://github.com/OSUSecLab/vSim)][[Artifact](https://doi.org/10.5281/zenodo.17751555)][[Preprint](https://github.com/whj0401/whj0401.github.io/blob/master/files/2026/vSim_NDSS2026.pdf?raw=true)]\
-**Huaijin Wang**, Zhiqiang Lin\
-*Network and Distributed System Security Symposium 2026* (**NDSS'26**) (CCF-A)
-
-[**DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.**](https://dl.acm.org/doi/pdf/10.1145/3728958)\
-Wai Kin Wong, Daoyuan Wu, **Huaijin Wang**, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM SIGSOFT International Symposium on Software Testing and Analysis* (**ISSTA'25**) (CCF-A)
-
-[**Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements**](https://doi.org/10.1109/ICSE55347.2025.00055)
-[[Code](https://github.com/whj0401/SafeSCA)][[Extended version](https://arxiv.org/abs/2412.00898)]\
-**Huaijin Wang**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*2025 IEEE/ACM 47th International Conference on Software Engineering* (**ICSE'25**) (CCF-A)
-
-[**Are We There Yet? Filling the Gap Between ML-Based Binary Similarity Analysis and Binary Software Composition Analysis.**](https://ieeexplore.ieee.org/abstract/document/10629030)
-[[Code](https://sites.google.com/view/bsa2bsca/home/artifact)]\
-**Huaijin Wang**, Zhibo Liu, Shuai Wang, Ying Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*9th IEEE European Symposium on Security and Privacy* (**Euro SP'24**)
-
-[**PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis**](https://2024.splashcon.org/details/splash-2024-oopsla/46/PP-CSA-Practical-Privacy-Preserving-Software-Call-Stack-Analysis)\
-Zhaoyu Wang, Pingchuan Ma, **Huaijin Wang**, Shuai Wang\
-*ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications* (**OOPSLA'24**)
-
-<!-- ### ICSE'24 -->
-[**BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing**](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/46/BinAug-Enhancing-Binary-Similarity-Analysis-with-Low-Cost-Input-Repairing)\
-WONG Wai Kin, **Huaijin Wang\***, Li Zongjie, Shuai Wang (Dr. Shuai Wang and I are joint corresponding authors)\
-*2024 IEEE/ACM 46th International Conference on Software Engineering* (**ICSE'24**) (CCF-A)
-
-<!-- ### TOSEM'23 -->
-[**sem2vec: Semantics-Aware Assembly Tracelet Embedding**](https://dl.acm.org/doi/abs/10.1145/3569933) [[Code](https://github.com/sem2vec)]\
-**Huaijin Wang**, Pingchuan Ma, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*ACM Transactions on Software Engineering and Methodology, 2022* (**TOSEM'23**) (CCF-A)
-
-<!-- ### TSE'22 -->
-[**Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking**](https://ieeexplore.ieee.org/abstract/document/9707874/) [[code](https://github.com/computer-analysis/BinUSE)]\
-**Huaijin Wang**, Pingchuan Ma, Yuanyuan Yuan, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*IEEE Transactions on Software Engineering, 2022* (**TSE'22**) (CCF-A)
-
-<!-- ### ICSME'22 -->
-[**Deceiving Deep Neural Networks-Based Binary Code Matching with Adversarial Programs**](https://ieeexplore.ieee.org/abstract/document/9978244/)\
-Wai Kin Wong, **Huaijin Wang**, Pingchuan Ma, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen, Qiyi Tang, Sen Nie, Shi Wu\
-*2022 IEEE International Conference on Software Maintenance and Evolution* (**ICSME'22**) (CCF-B)
-
-<!-- ### ICSE'22 -->
-[**Unleashing the power of compiler intermediate representation to enhance neural program embeddings**](https://arxiv.org/pdf/2204.09191)\
-Zongjie Li, Pingchuan Ma, **Huaijin Wang**, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu\
-*Proceedings of the 44th International Conference on Software Engineering* (**ICSE'22**) (CCF-A)
-
-<!-- ### TDSC'20 -->
-[**Generating effective software obfuscation sequences with reinforcement learning**](https://ieeexplore.ieee.org/abstract/document/9275317/)\
-**Huaijin Wang**, Shuai Wang, Dongpeng Xu, Xiangyu Zhang, Xiao Liu\
-*IEEE Transactions on Dependable and Secure Computing, 2020* (**TDSC'20**) (CCF-A)
-
-<!-- ### ICSE'19 -->
-[**Global optimization of numerical programs via prioritized stochastic algebraic transformations**](https://ieeexplore.ieee.org/abstract/document/8812093/)\
-Xie Wang, **Huaijin Wang**, Zhendong Su, Enyi Tang, Xin Chen, Weijun Shen, Zhenyu Chen, Linzhang Wang, Xianpei Zhang, Xuandong Li\
-*2019 IEEE/ACM 41st International Conference on Software Engineering* (**ICSE'19**) (CCF-A)
+{% include publications.html %}
 
 学术服务
 ------
 本人曾多次作为计算机安全，计算机语言，及软件工程领域顶级会议与期刊的外部审稿人，也曾是软工及安全顶级会议的论文材料评审成员。相关会议及期刊多为CCF-A类。
 
+{% include services.html %}
 
 教学经历
 ------
