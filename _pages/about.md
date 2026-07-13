@@ -19,6 +19,9 @@ My research interests include AI agent security, binary software analysis, malwa
 I am looking for self-motivated students (Post-doc, PhD, Master, and Undergraduate) and collaborators in software security, AI, and software engineering. Feel free to email me if you are interested in working together.
 </div>
 
+Email: huaijinwang [at] sdu [dot] edu [dot] cn\
+Office: CS Department, Room 210
+
 Publications
 ------
 

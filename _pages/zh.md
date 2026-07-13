@@ -8,7 +8,6 @@ redirect_from:
   - /zh.html
 ---
 
-王怀瑾
 
 简介
 ------
@@ -20,6 +19,9 @@ redirect_from:
 #### 🎓 招生信息
 我正在招收有自驱力的学生（博士后、博士、硕士和本科生），以及软件安全、人工智能和软件工程方向的合作者。如果你有兴趣与我合作，欢迎通过邮件联系我。
 </div>
+
+Email: huaijinwang [at] sdu [dot] edu [dot] cn\
+Office: CS Department, Room 210
 
 发表文章
 ------
