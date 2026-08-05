@@ -10,7 +10,7 @@ redirect_from:
 
 Chinese version see [here](zh). 中文版简历见[页面](zh).
 
-I am a professor at the Department of Computer Science and Technology, Shandong University.
+I am joining the Department of Computer Science and Technology, Shandong University.
 Before that, I received my Ph.D. degree from the Hong Kong University of Science and Technology and received my B.Eng. degree from Nanjing University.
 My research interests include AI agent security, binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
 
@@ -18,9 +18,6 @@ My research interests include AI agent security, binary software analysis, malwa
 #### 🎓 Prospective Students & Collaborators
 I am looking for self-motivated students (Post-doc, PhD, Master, and Undergraduate) and collaborators in software security, AI, and software engineering. Feel free to email me if you are interested in working together.
 </div>
-
-Email: huaijinwang [at] sdu [dot] edu [dot] cn\
-Office: CS Department, Room 210
 
 Publications
 ------
