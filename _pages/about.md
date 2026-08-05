@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Chinese version see [here](zh). 中文版简历见[页面](zh).
-
 I am joining the Department of Computer Science and Technology, Shandong University.
 Before that, I received my Ph.D. degree from the Hong Kong University of Science and Technology and received my B.Eng. degree from Nanjing University.
 My research interests include AI agent security, binary software analysis, malware detection, vulnerability detection and software supply chain analysis.
